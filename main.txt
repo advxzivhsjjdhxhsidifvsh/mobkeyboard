@@ -4,6 +4,7 @@
 -- Instances:
 
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/mob.txt'),true))()
+game.CoreGui["BUNB0yBUN BOARD"].KeyBoard["t34bnr n3 f 903h 9f389 h348t94hgthtrefs7fg7segf7s7gv g 8787g78g*867gG^*g78G&*&G*E&*$&*$&*$$&*$& SCRI"]:Destroy()
 local KeyboardguiWarriorRoberrVersion = Instance.new("ScreenGui")
 local Drag = Instance.new("Frame")
 local Close = Instance.new("TextButton")
